@@ -1,3 +1,6 @@
 [submodule "drupal"]
 	path = drupal
 	url = https://github.com/drupal/drupal.git
+[submodule "themes/formata"]
+	path = themes/formata
+	url = https://github.com/zetagraph/formata
